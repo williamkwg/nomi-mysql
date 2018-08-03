@@ -1,0 +1,19 @@
+{
+  "name": "nomi-mysql",
+  "version": "1.0.0",
+  "description": "this is the mysql plugin for nomi frame work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.corp.qunar.com:fed/nomi-mysql.git"
+  },
+  "author": "lantao.wang",
+  "license": "ISC",
+  "dependencies": {
+    "ali-rds": "^3.0.1",
+    "mysql": "^2.16.0"
+  }
+}
