@@ -11,6 +11,13 @@
     "url": "https://github.com/williamkwg/nomi-mysql.git",
     "innerurl": "git@gitlab.corp.qunar.com:fed/nomi-mysql.git"
   },
+  "keywords": [
+    "nomi",
+    "mysql",
+    "nomi-mysql",
+    "rds",
+    "db"
+  ],
   "author": "lantao.wang",
   "license": "ISC",
   "dependencies": {
