@@ -1,6 +1,6 @@
 {
   "name": "nomi-mysql",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "this is the mysql plugin for nomi frame work",
   "main": "./lib/index.js",
   "scripts": {
